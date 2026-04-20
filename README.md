@@ -2,8 +2,8 @@
 
 **`Estudante de Sistemas de Informação`**
 
-Me chamo Anna, tenho 26 anos e natural de Maceió-AL.
-Estou cursando o bacharelado de Sistemas de Informação pelo Instituto Federal de Alagoas (IFAL). Sou apaixonada por jogos e aficionada com técnologia no geral.
+Aluna de Sistemas de Informação
+Apaixonada por jogos e aficionada com técnologia no geral.
 
 ---
 
