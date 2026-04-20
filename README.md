@@ -1,8 +1,7 @@
 ## 👩‍💻 Anna Queiroz
 
-**`Estudante de Sistemas de Informação`**
+**`Graduanda de Sistemas de Informação`** **`Redes`** **`CyberSec`**
 
-Aluna de Sistemas de Informação
 Apaixonada por jogos e aficionada com técnologia no geral.
 
 ---
