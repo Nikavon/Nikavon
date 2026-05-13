@@ -17,12 +17,11 @@ Apaixonada por jogos e aficionada com técnologia no geral.
   <img alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
 
-<!--
+
 ### 📊 Estatísticas
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=Nikavon&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" />
   <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikavon&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </div>
--->
 
